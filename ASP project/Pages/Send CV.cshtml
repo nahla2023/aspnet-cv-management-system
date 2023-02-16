@@ -1,0 +1,130 @@
+﻿@page
+@model ASP_project.Pages.Send_CVModel
+@{ 
+	ViewData["Title"] = "Send CV";
+}
+
+<h1>Send CV</h1>
+<hr />
+<form method="post"  enctype="multipart/form-data">
+ 
+    <div class="form-group">
+        <label asp-for="Input.FirstName">FirstName:</label>
+        <input class="form-control" asp-for="Input.FirstName" required />
+        <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.LastName">LastName:</label>
+        <input class="form-control" asp-for="Input.LastName" required />
+        <span asp-validation-for="Input.LastName"  class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Input.date">Date of birth:</label>
+        <input class="form-control" asp-for="Input.date" required />
+        <span asp-validation-for="Input.date"  class="text-danger"></span>
+    </div>
+
+  <div class="form-group">
+  <label >Nationality:</label>
+
+  <select asp-for="Input.Nationality">
+
+  <option value="">-- select one --</option>
+
+  <option value="algerian">Algerian</option>
+  <option value="armenian">Armenian</option>
+  <option value="australian">Australian</option>
+  <option value="austrian">Austrian</option>
+  <option value="azerbaijani">Azerbaijani</option>
+  <option value="british">British</option>
+  <option value="french">French</option>
+  <option value="georgian">Georgian</option>
+  <option value="german">German</option>
+  <option value="ghanaian">Ghanaian</option>
+  <option value="greek">Greek</option>
+  <option value="indian">Indian</option>
+  <option value="italian">Italian</option>
+  <option value="japanese">Japanese</option>
+  <option value="jordanian">Jordanian</option>
+  <option value="kazakhstani">Kazakhstani</option>
+  <option value="kenyan">Kenyan</option>
+  <option value="kuwaiti">Kuwaiti</option>
+  <option value="Lebanese">Lebanese</option>
+
+</select><br />
+ <span asp-validation-for="Input.Nationality"  class="text-danger"></span>
+ </div>
+    <div class="form-group">
+         <label >Gender:</label><br />
+         @foreach (var gender in @Model.Genders)
+    {
+        <input asp-for="Input.Gender" type="radio" asp-for="Input.Gender" value="@gender"/>@gender<br/>
+    }
+        <span asp-validation-for="Input.Gender"  class="text-danger"></span>
+    </div>
+    <div class="form-group">
+         <label >Programming Skills:</label>
+         <br />
+         
+        <input  type="checkbox"  name="Input.AreChecked"  value="C" />C<br />
+        <input  type="checkbox" name="Input.AreChecked"  value="java" />java<br />
+        <input  type="checkbox" name="Input.AreChecked"  value="R" />R<br />
+        <input  type="checkbox" name="Input.AreChecked"  value="Python" />Python<br />
+        <input  type="checkbox" name="Input.AreChecked"  value="C-Sharp" />C-Sharp<br />
+        <span asp-validation-for="Input.AreChecked"  class="text-danger"></span>
+    </div>
+   
+
+    <div class="form-group">
+        <label asp-for="Input.Email">Email:</label>
+        <input class="form-control" asp-for="Input.Email" required />
+        <span asp-validation-for="Input.Email"  class="text-danger"></span>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Input.Confirm_email">Confirm Email:</label>
+        <input class="form-control" asp-for="Input.Confirm_email" required />
+        <span asp-validation-for="Input.Confirm_email"  class="text-danger"></span>
+        <span class="text-danger">@Model.msg2</span>
+    </div>
+    
+
+     <div class="form-group">
+      <h4>Verification Fields:</h4><br />
+      <label asp-for="Input.x">X:</label>
+        <input class="form-control" asp-for="Input.x" required />
+        <span asp-validation-for="Input.x"  class="text-danger"></span>
+            
+    </div>
+ 
+ 
+     <div class="form-group">
+      <label asp-for="Input.y">Y:</label>
+        <input class="form-control" asp-for="Input.y" required />
+        <span asp-validation-for="Input.y"  class="text-danger"></span>
+     </div>
+
+     <div class="form-group">
+        <label asp-for="Input.sum">Sum of X and Y:</label>
+        <input class="form-control" asp-for="Input.sum" required />
+        <span asp-validation-for="Input.sum"  class="text-danger"></span>
+        <span class="text-danger">@Model.msg</span>
+        
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Input.Image">upload photo:</label>
+     
+        <input type="file" name="Input.Image" id="photo" required />
+
+        <span asp-validation-for="Input.Image"  class="text-danger"></span>
+    </div>
+
+    <button asp-page-handler="Submit"  type="submit" class="btn btn-primary">Send CV</button>
+   
+   </form>
+
+
+
+  

@@ -1,0 +1,121 @@
+﻿@page "{id}"
+@model ASP_project.Pages.EditModel
+@{
+}
+<div class="container">
+    <h3>Edit</h3>
+    <hr />
+    <br />
+    <form method="post" enctype="multipart/form-data">
+   <input asp-for="c.id" type="hidden" />
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="c.firstname">First Name</label>
+                <input type="text" asp-for="c.firstname" class="form-control" required/>
+                <span asp-validation-for="c.firstname" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="c.lastname">Last Name</label>
+                <input type="text" asp-for="c.lastname" class="form-control" required/>
+                <span asp-validation-for="c.lastname" class="text-danger"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="c.Email">Email</label>
+                <input type="email" asp-for="c.Email" class="form-control" required/>
+                 <span asp-validation-for="c.Email" class="text-danger"></span>
+            </div>
+        </div>
+       
+          <div class="form-group">
+                <label >Gender</label><br />
+                @if (Model.c.Gender == "Female")
+                {
+                    <input asp-for="c.Gender" type="radio"  value="Female" checked >@Model.check1<br />
+                    <input asp-for="c.Gender"  type="radio"  value="Male"   >@Model.check2<br />
+                }
+                else
+                {
+                      <input asp-for="c.Gender" type="radio"  value="Female" >@Model.check1<br />
+                      <input asp-for="c.Gender"  type="radio"  value="Male"  checked >@Model.check2<br />
+                    
+                }
+            <span asp-validation-for="c.Gender" class="text-danger"></span>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="c.DateOfBirth">Date Of Birth</label>
+                <input type="date" asp-for="c.DateOfBirth" class="form-control" required/>
+                 <span asp-validation-for="c.DateOfBirth" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+
+      <div class="form-group">
+      <label >Nationality:</label>
+
+      <select asp-for="c.Nationality">
+
+
+      <option value="">-- select one --</option>
+      <option value="algerian">Algerian</option>
+      <option value="armenian">Armenian</option>
+      <option value="australian">Australian</option>
+      <option value="austrian">Austrian</option>
+      <option value="azerbaijani">Azerbaijani</option>
+      <option value="british">British</option>
+      <option value="french">French</option>
+      <option value="georgian">Georgian</option>
+      <option value="german">German</option>
+      <option value="ghanaian">Ghanaian</option>
+      <option value="greek">Greek</option>
+      <option value="indian">Indian</option>
+      <option value="italian">Italian</option>
+      <option value="japanese">Japanese</option>
+      <option value="jordanian">Jordanian</option>
+      <option value="kazakhstani">Kazakhstani</option>
+      <option value="kenyan">Kenyan</option>
+      <option value="kuwaiti">Kuwaiti</option>
+      <option value="Lebanese">Lebanese</option>
+
+    </select><br />
+     <span asp-validation-for="c.Nationality"  class="text-danger"></span>
+     </div>
+  
+         <div class="row">
+            <div class="col-md-4">
+                <label asp-for="c.grade">grade</label>
+                <input type="number" asp-for="c.grade" class="form-control" required/>
+                 <span asp-validation-for="c.grade" class="text-danger"></span>
+            </div>
+        </div>
+
+     <div class="form-group">
+      <label >Programming Skills:</label>
+      <br />
+         
+        <input  type="checkbox" name="ECV.AreChecked"  value="C" />C<br />
+        <input  type="checkbox" name="ECV.AreChecked"  value="java" />java<br />
+        <input  type="checkbox" name="ECV.AreChecked"  value="R" />R<br />
+        <input  type="checkbox" name="ECV.AreChecked"  value="Python" />Python<br />
+        <input  type="checkbox" name="ECV.AreChecked"  value="C-Sharp" />C-Sharp<br />
+        <span asp-validation-for="ECV.AreChecked"  class="text-danger"></span>
+        
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="ECV.Image">upload photo:</label>
+        <input type="file" name="ECV.Image" id="photo"/><br />
+       <span asp-validation-for="ECV.Image" class="text-danger"></span>
+    </div>
+   
+
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a class="btn btn-default" href="/Browse CVs">Cancel</a>
+    </form>
+
+</div>

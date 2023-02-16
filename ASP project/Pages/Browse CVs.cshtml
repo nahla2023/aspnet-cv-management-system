@@ -1,0 +1,83 @@
+﻿@page
+@using ASP_project.DB
+@model ASP_project.Pages.Browse_CVsModel
+@{
+}
+<h1>Browse CVs</h1>
+<hr />
+
+<table Border="1" width="100%">
+    <thead>
+        <tr>
+            <th>
+               First Name
+            </th>
+            <th>
+               Last Name
+            </th>
+            <th>
+               Email
+            </th>
+            <th>
+               Gender
+            </th>
+            <th>
+               Date Of Birth
+            </th>
+               <th>
+             Nationality
+            </th>
+               <th>
+                grade
+            </th>
+               <th>
+                Skills
+            </th>
+               <th>
+               Photo
+            </th>
+            <th>Edit | Details | Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (CV c in Model._Context.CVs)
+        {
+            <tr>
+                <td>
+                   @c.firstname
+                </td>
+                <td>
+                     @c.lastname
+                </td>
+                <td>
+                     @c.Email
+                </td>
+                <td>
+                     @c.Gender
+                </td>
+                <td>
+                     @c.DateOfBirth
+                </td>
+                <td>
+                     @c.Nationality
+                </td>
+                <td>
+                     @c.grade
+                </td>
+                <td>
+                     @c.Skills
+                </td>
+                <td>
+                      @c.photo
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@c.id" >Edit</a> |
+                    <a asp-page="./Details" asp-route-id="@c.id">Details</a> |
+                    <a asp-page="./Browse CVs" onclick="return confirm
+                    ('Are you sure you want to delete this item?');" 
+                    asp-page-handler="Delete" asp-route-id="@c.id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

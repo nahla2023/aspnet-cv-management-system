@@ -1,0 +1,41 @@
+﻿@page "{FirstName}/{LastName}/{Nationality}/{grade}/{Gender}/{Skills}/{Email}/{sum}/{date}/{img}"
+@model ASP_project.Pages.SummaryCVModel
+@{
+           
+}
+<h1>Summary CV</h1>
+<hr />
+<h4>Grade:</h4>
+<h6>@Model.SV.grade</h6><br />
+
+<h4>First Name:</h4>
+<h6>@Model.SV.FirstName</h6><br />
+
+<h4>Last Name:</h4>
+<h6>@Model.SV.LastName</h6><br />
+
+<h4>Nationality:</h4>
+<h6>@Model.SV.Nationality</h6><br />
+
+<h4>Gender:</h4>
+<h6>@Model.SV.Gender</h6><br />
+
+<h4>Programming Skills:</h4>
+<h6>@Model.SV.Skills.Replace("I", " ")</h6><br />
+
+<h4>Email:</h4>
+<h6>@Model.SV.Email</h6><br />
+
+<h4>sum:</h4>
+<h6>@Model.SV.sum</h6><br />
+
+<h4>date:</h4>
+<h6>@Model.SV.date</h6><br />
+
+<h4>Photo:</h4>
+
+<img src="~/photos/@(Model.SV.img)" alt="Photo" style="width:50%;height:50%;"/>
+
+<form method="post">
+	<button   type="submit" class="btn btn-primary">Download pdf</button>
+</form>

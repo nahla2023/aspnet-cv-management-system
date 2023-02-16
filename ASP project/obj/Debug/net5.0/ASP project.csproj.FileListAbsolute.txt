@@ -1,0 +1,270 @@
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\appsettings.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.exe
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.deps.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.runtimeconfig.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.runtimeconfig.dev.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.Views.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\ASP project.Views.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.csproj.AssemblyReference.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.AssemblyInfoInputs.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.AssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.RazorAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.RazorAssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\scopedcss\bundle\ASP project.styles.css
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\staticwebassets\ASP project.StaticWebAssets.Manifest.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.TagHelpers.input.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.TagHelpers.output.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.RazorCoreGenerate.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.RazorTargetAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.RazorTargetAssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.Views.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\refint\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.genruntimeconfig.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ref\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\ASP project.csproj.CopyComplete
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Browse CVs.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\Send CV.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\obj\Debug\net5.0\Razor\Pages\SummaryCV.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\HtmlRenderer.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\HtmlRenderer.PdfSharp.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\PdfSharp.Charting.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\PdfSharp.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Syncfusion.Compression.Portable.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Syncfusion.Licensing.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Syncfusion.Pdf.Portable.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\de\PdfSharp.resources.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP project sol\ASP project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\appsettings.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.exe
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.deps.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.runtimeconfig.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.runtimeconfig.dev.json
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.Views.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\ASP project.Views.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\HtmlRenderer.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\HtmlRenderer.PdfSharp.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\PdfSharp.Charting.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\PdfSharp.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\de\PdfSharp.resources.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.csproj.AssemblyReference.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.AssemblyInfoInputs.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.AssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.RazorAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.RazorAssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\scopedcss\bundle\ASP project.styles.css
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\staticwebassets\ASP project.StaticWebAssets.Manifest.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.TagHelpers.input.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.TagHelpers.output.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.RazorCoreGenerate.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Browse CVs.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Send CV.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\SummaryCV.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.RazorTargetAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.RazorTargetAssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.Views.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.csproj.CopyComplete
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\refint\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.pdb
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ASP project.genruntimeconfig.cache
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\ref\ASP project.dll
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\source\repos\ASP Project\ASP project\bin\Debug\net5.0\AWSSDK.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\appsettings.json
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.exe
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.deps.json
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.runtimeconfig.json
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.runtimeconfig.dev.json
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.Views.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\ASP project.Views.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\AWSSDK.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\HtmlRenderer.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\HtmlRenderer.PdfSharp.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\PdfSharp.Charting.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\PdfSharp.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\de\PdfSharp.Charting.resources.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\de\PdfSharp.resources.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.csproj.AssemblyReference.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.AssemblyInfoInputs.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.AssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.csproj.CoreCompileInputs.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.RazorAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.RazorAssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\scopedcss\bundle\ASP project.styles.css
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\staticwebassets\ASP project.StaticWebAssets.Manifest.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.TagHelpers.input.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.TagHelpers.output.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.RazorCoreGenerate.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Browse CVs.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Details.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Edit.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Send CV.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\SummaryCV.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.RazorTargetAssemblyInfo.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.RazorTargetAssemblyInfo.cs
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.Views.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.csproj.CopyComplete
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\refint\ASP project.dll
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.pdb
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ASP project.genruntimeconfig.cache
+C:\Users\Nahla Abu Shakra\Downloads\NahlaMohamadAbouChakra96657 1\ASP project\obj\Debug\net5.0\ref\ASP project.dll
